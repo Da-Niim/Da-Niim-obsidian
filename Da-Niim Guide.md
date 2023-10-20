@@ -56,8 +56,9 @@
 
 커밋 메시지 형식은 다음과 같습니다:
 
-`<type>: #<jira ticket id> <subject>`
-`Feat: #DAN-00 로그인 개발`
+`#<jira ticket id>/<type>: <subject>`
+
+`#DAN-00/Feat: 로그인 개발`
 
 
 커밋 타입(type) 예시:
